@@ -1,0 +1,2 @@
+cd AsteroidDesktopGame
+java AsteroidGame
